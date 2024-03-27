@@ -1,4 +1,4 @@
-# Cinnamon Dolce Syrup
+# caramel Syrup
 
 ## Description: Make a batch of Cinnamon Dolce Syrup ahead and treat guests (or yourself) to a deliciously refreshing moment anytime
 
